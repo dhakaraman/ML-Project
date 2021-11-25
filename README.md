@@ -8,3 +8,5 @@
   ###   Tesla
   ###   Coca-cola company
 ### We intend to analyse various ML models on the available data for the given companies.
+
+We trained a few models, the ipynb files regarding all of them are also present.
