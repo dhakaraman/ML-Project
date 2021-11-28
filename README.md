@@ -41,7 +41,10 @@ In the above image you can see a highlighted box. You can upload the files in th
 Exploratory Data Analysis and Visualisation was carried on out on the training data and the results are present in the Data Analysis folder, the file ML_proj.ipynb contains all the visualisation graphs for each of the company selected. Some of the features were dropped due to their unrelated nature from the problem in hand.
 
 # Results and Analysis
-Results are compiled in the Report and were presented during the presentation.
+Results are compiled in the Report and were presented during the presentation. The plots are presented in the plots folder.
+![alt text](https://github.com/dhakaraman/ML-Project/blob/3015a227198ba6c4539bfeac3577086cd801bc29/Plots/SDG/COKE.png)
+![alt text](https://github.com/dhakaraman/ML-Project/blob/3015a227198ba6c4539bfeac3577086cd801bc29/Plots/CNN/TCS_train_validation_loss.jpg)
 
 
-We trained a few models, the ipynb files regarding all of them are also present.
+
+
