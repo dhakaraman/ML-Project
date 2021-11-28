@@ -14,7 +14,7 @@
  # How to Run the project
 For each model user can find different files in the root folder named with the name of the model
 
-1. For analysis of SVM and SGD user can find the python notebook as SVM__and_SGD.ipynb. To run the file click the below button or down it on your system.
+1. For analysis of SVM and SGD user can find the python notebook as SVM__and_SGD.ipynb. To run the file click the below button or download it and run the file using jupyter notebook.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhakaraman/ML-Project/blob/main/SVM__and_SGD.ipynb)
 
 2. For analysis of CNN model user can find the python notebook as CNN.ipynb.
@@ -31,7 +31,7 @@ Traing data : [Training Data for 5 companies](https://github.com/dhakaraman/ML-P
 Here you can see the data named as [company_name].csv for 5 different companies.
 
 Testing Data : [Testing Data for 5 companies](https://github.com/dhakaraman/ML-Project/tree/main/data/test)
-Here you can see the data named as [company_name].csv for 5 different companies.
+Here you can see the data named as [company_name_test].csv for 5 different companies.
 
 You need to download the data and upload it on google colab.
 ![alt text](https://i.postimg.cc/sXf7hdPX/colab-Image.png)
