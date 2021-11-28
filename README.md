@@ -8,13 +8,35 @@
     Coca-cola company
     Tesla
     
-<!--   ###   Amazon
-  ###   TCS
-  ###   Thomas cook India
-  ###   Tesla
-  ###   Coca-cola company -->
+
  We intend to analyse various ML models on the available data for the given companies. we have trained 4 diffeent models, Linear Regression (SDG), Support-vector machine (SVM), Convoluted Nueral Network (CNN) and Long-short term memory model (LSTM).
  
+ # How to Run the project
+For each model user can find different files in the root folder named with the name of the model
+
+1. For analysis of SVM and SGD user can find the python notebook as SVM__and_SGD.ipynb. To run the file click the below button or down it on your system.
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhakaraman/ML-Project/blob/main/SVM__and_SGD.ipynb)
+
+2. For analysis of CNN model user can find the python notebook as CNN.ipynb.
+To run the file click the below button or download it and run the file using jupyter notebook.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhakaraman/ML-Project/blob/main/CNN.ipynb)
+
+3. For analysis of LSTM model user can find the python notebook as LSTM.ipynb.
+To run the file click the below button or download it and run the file using jupyter notebook.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhakaraman/ML-Project/blob/main/LSTM.ipynb)
+
+For running the analysis user needs to download the data for all the companies it can be found in the data folder of in the root directory(click below links for the data diretory).
+
+Traing data : [Training Data for 5 companies](https://github.com/dhakaraman/ML-Project/tree/main/data)
+Here you can see the data named as [company_name].csv for 5 different companies.
+
+Testing Data : [Testing Data for 5 companies](https://github.com/dhakaraman/ML-Project/tree/main/data/test)
+Here you can see the data named as [company_name].csv for 5 different companies.
+
+You need to download the data and upload it on google colab.
+![alt text](https://i.postimg.cc/sXf7hdPX/colab-Image.png)
+In the above image you can see a highlighted box. You can upload the files in the google colab using this button. After opening the file to be analysed in google colab
+
 # Data Preprocessing:
 
 # Results and Analysis
