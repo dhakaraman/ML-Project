@@ -1,5 +1,26 @@
 # ML-Project
 
+## Introduction
+<p align="center"><img src="https://d1wa5qhtul915h.cloudfront.net/app/uploads/2021/08/Bike-Europe-Stock-Chart.jpg" width="200"></p>
+Our project aimed to analyze various predictive models on the
+stock market trends of the selected companies and try to find
+the best prediction technique that is effective for stock market
+prediction. Stock market trends are nonlinear, and much data is
+generated worldwide every day, causing extreme speculation
+globally.
+To be specific, for a given company, we obtain its historical
+stock prices, opening, closing, and daily highs and lows records
+and try to predict the direction and magnitude of the trend of
+the price using the trained models. We analyzed our results and
+tried to compare various learning approaches for predictions,
+and this comparative analysis will allow us to determine the
+more reliable attributes that can be trusted to predict future
+stock market trends.
+We plan to analyze predictions on machine learning models
+based on Stochastic Gradient Descent(SGD) regression,
+Support vector machine (SVM), Long-short term memory
+(LSTM), and Convoluted Neural Network (CNN).
+
 ## Objective:  We want to use ML techniques to help predict stock prices of various companies.
  The companies which we have chosen are:
     Amazon  
