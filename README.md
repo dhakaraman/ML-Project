@@ -44,6 +44,7 @@ Exploratory Data Analysis and Visualisation was carried on out on the training d
 
 # Results and Analysis
 Results are compiled in the Report and were presented during the presentation. The plots are presented in the plots folder.
+
 ![alt text](https://github.com/dhakaraman/ML-Project/blob/3015a227198ba6c4539bfeac3577086cd801bc29/Plots/SDG/COKE.png)
 ![alt text](https://github.com/dhakaraman/ML-Project/blob/3015a227198ba6c4539bfeac3577086cd801bc29/Plots/CNN/TCS_train_validation_loss.jpg)
 
