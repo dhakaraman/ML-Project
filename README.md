@@ -39,6 +39,7 @@ In the above image you can see a highlighted box. You can upload the files in th
 
 # Data Preprocessing:
 Exploratory Data Analysis and Visualisation was carried on out on the training data and the results are present in the Data Analysis folder, the file ML_proj.ipynb contains all the visualisation graphs for each of the company selected. Some of the features were dropped due to their unrelated nature from the problem in hand.
+
 ![alt text](https://github.com/dhakaraman/ML-Project/blob/c9669fa13e42ce9c08f6c7d4619c9b32545e537b/Data%20Analysis/Analysed_Data.png)
 
 # Results and Analysis
