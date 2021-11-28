@@ -38,8 +38,10 @@ You need to download the data and upload it on google colab.
 In the above image you can see a highlighted box. You can upload the files in the google colab using this button. After opening the file to be analysed in google colab
 
 # Data Preprocessing:
+Exploratory Data Analysis and Visualisation was carried on out on the training data and the results are present in the Data Analysis folder, the file ML_proj.ipynb contains all the visualisation graphs for each of the company selected. Some of the features were dropped due to their unrelated nature from the problem in hand.
 
 # Results and Analysis
+Results are compiled in the Report and were presented during the presentation.
 
 
 We trained a few models, the ipynb files regarding all of them are also present.
